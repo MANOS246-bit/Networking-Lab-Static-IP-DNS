@@ -83,9 +83,7 @@ nslookup wikipedia.org
 
 ## 🛠️ Tools
 
-| Εργαλείο | Χρήση                     |          |
-|          |
-|          |
+| Εργαλείο | Χρήση                                           
 |Linux Mint|IP routing configuration, DNS testing|
 |Windows 11|Static IP configuration, ping, nslookup|
 |ping /ICMP|Connectivity testing|
