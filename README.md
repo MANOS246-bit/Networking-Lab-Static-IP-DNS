@@ -64,7 +64,7 @@ nslookup wikipedia.org
 * [Linux – ip route](./screenshots/ping-c-route.jpg)
 * [Windows – ipconfig](./screenshots/ip-configall-W11.png)
 * [Ping Linux → Windows](./screenshots/ping-linux.png)
-* [Ping Windows → Linux](./screenshots/ping-windows.png)
+* [Ping Windows → Linux](./screenshots/ping-Windows11.png)
 * [Linux nslookup](./screenshots/nslookup-linux.jpg)
 * [Windows nslookup](./screenshots/nslookup-Windows11.png)
 
