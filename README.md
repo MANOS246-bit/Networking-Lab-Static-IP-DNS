@@ -93,4 +93,5 @@ nslookup wikipedia.org
 ## 👤 About me
 
 📍 Τεχνικός Υπολογιστικών Συστημάτων, ειδίκευση σε **Networking, Linux, IT Support**
-📫 LinkedIn / Email: [kanakismanolis04@gmail.com](mailto:kanakismanolis04@gmail.com)
+📫 LinkedIn / Email:[LinkedIn Profile](https://www.linkedin.com/in/<το-username-σου>/)
+ [kanakismanolis04@gmail.com](mailto:kanakismanolis04@gmail.com)
