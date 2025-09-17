@@ -62,7 +62,7 @@ nslookup wikipedia.org
 
 * [Linux – ip addr-route](./screenshots/ip-addr-show-linux.jpg)
 * [Windows – ipconfig](./screenshots/ip-configall-W11.png)
-* [Ping Linux → Windows](./screenshots/ping-linux.png)
+* [Ping Linux → Windows](./screenshots/ping-c.png)
 * [Ping Windows → Linux](./screenshots/ping-Windows11.png)
 * [Linux nslookup](./screenshots/nslookup-linux.jpg)
 * [Windows nslookup](./screenshots/nslookup-Windows11.png)
