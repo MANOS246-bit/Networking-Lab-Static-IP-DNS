@@ -93,5 +93,5 @@ nslookup wikipedia.org
 ## 👤 About me
 
 📍 Τεχνικός Υπολογιστικών Συστημάτων, ειδίκευση σε **Networking, Linux, IT Support**
-📫 LinkedIn / Email:[LinkedIn Profile](https://www.linkedin.com/in/<ΕΜΜΑΝΟΥΗΛ-ΚΑΝΑΚΗΣ>/)
+📫 LinkedIn / Email:[LinkedIn Profile](https://www.linkedin.com/in/%CE%B5%CE%BC%CE%BC%CE%B1%CE%BD%CE%BF%CF%85%CE%B7%CE%BB-%CE%BA%CE%B1%CE%BD%CE%B1%CE%BA%CE%B7%CF%82-695809356/)
  [kanakismanolis04@gmail.com](mailto:kanakismanolis04@gmail.com)
