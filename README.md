@@ -66,7 +66,7 @@ nslookup wikipedia.org
 * [Ping Linux → Windows](./screenshots/ping-linux.png)
 * [Ping Windows → Linux](./screenshots/ping-windows.png)
 * [Linux nslookup](./screenshots/nslookup-linux.jpg)
-* [Windows nslookup](./screenshots/nslookup-windows.png)
+* [Windows nslookup](./screenshots/nslookup-Windows11.png)
 
 **Σημείωση:** Το Linux firewall αρχικά ήταν set σε `deny incoming`, γι’ αυτό η επικοινωνία ICMP απέτυχε μέχρι να προστεθεί το rule για ICMP.
 
