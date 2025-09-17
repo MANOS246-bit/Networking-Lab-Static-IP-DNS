@@ -60,8 +60,7 @@ nslookup wikipedia.org
 
 ## 🧪 Αποτελέσματα / Screenshots
 
-* [Linux – ip addr](./screenshots/ip-addr-show-linux.jpg)
-* [Linux – ip route](./screenshots/ping-c-route.jpg)
+* [Linux – ip addr-route](./screenshots/ip-addr-show-linux.jpg)
 * [Windows – ipconfig](./screenshots/ip-configall-W11.png)
 * [Ping Linux → Windows](./screenshots/ping-linux.png)
 * [Ping Windows → Linux](./screenshots/ping-Windows11.png)
