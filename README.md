@@ -61,7 +61,7 @@ nslookup wikipedia.org
 ## 🧪 Αποτελέσματα / Screenshots
 
 * [Linux – ip addr](./screenshots/ip-addr-show-linux.jpg)
-* [Linux – ip route](./screenshots/ip-route.png)
+* [Linux – ip route](./screenshots/ping-c-route.png)
 * [Windows – ipconfig](./screenshots/ip-configall-W11.png)
 * [Ping Linux → Windows](./screenshots/ping-linux.png)
 * [Ping Windows → Linux](./screenshots/ping-windows.png)
