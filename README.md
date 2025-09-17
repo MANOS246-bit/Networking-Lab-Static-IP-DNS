@@ -90,13 +90,6 @@ nslookup wikipedia.org
 
 ---
 
-## 📁 Χρήσιμα Αρχεία (στο repo)
-
-* `report.docx` (πλήρες lab report)
-* `screenshots/` (όλα τα captures από Linux & Windows)
-
----
-
 ## 👤 About me
 
 📍 Τεχνικός Υπολογιστικών Συστημάτων, ειδίκευση σε **Networking, Linux, IT Support**
